@@ -1,0 +1,3 @@
+O objetivo é criar um sistema para a Geek Store organizar os produtos e o estoque da loja. O sistema permitirá cadastrar o nome, preço, quantidade em estoque e a franquia ou anime de cada produto.
+
+A ideia é facilitar o controle do estoque e das vendas, atualizando automaticamente a quantidade de produtos quando uma venda for realizada. O sistema também deverá organizar os produtos por franquia ou anime e destacar quando houver apenas uma unidade disponível.
